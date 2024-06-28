@@ -39,7 +39,49 @@ const products: Product[] = [
         description: 'A fun and colorful mix of multiple flavors in one delicious scoop.',
         image: '/multi-flavour.png',
         price: 450,
-    }
+    },
+    {
+        id: '6',
+        name: 'Mango Mania',
+        description: 'A tropical mango ice cream that brings the taste of summer in every scoop.',
+        image: '/mango.png',
+        price: 60,
+    },
+    {
+        id: '7',
+        name: 'Chocolate Heaven',
+        description: 'Rich and indulgent chocolate ice cream for the ultimate chocolate lover.',
+        image: '/chocolate.png',
+        price: 100,
+    },
+    {
+        id: '8',
+        name: 'Mint Chocolate Chip',
+        description: 'Cool mint ice cream with delightful chocolate chips for a refreshing treat.',
+        image: '/mint-chocolate.png',
+        price: 500,
+    },
+    {
+        id: '9',
+        name: 'Mango Mania',
+        description: 'A tropical mango ice cream that brings the taste of summer in every scoop.',
+        image: '/mango.png',
+        price: 60,
+    },
+    {
+        id: '10',
+        name: 'Chocolate Heaven',
+        description: 'Rich and indulgent chocolate ice cream for the ultimate chocolate lover.',
+        image: '/chocolate.png',
+        price: 100,
+    },
+    {
+        id: '11',
+        name: 'Mint Chocolate Chip',
+        description: 'Cool mint ice cream with delightful chocolate chips for a refreshing treat.',
+        image: '/mint-chocolate.png',
+        price: 500,
+    },
     
 ];
 
